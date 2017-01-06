@@ -1,0 +1,10 @@
+[package]
+name = "gfx-frontend"
+version = "0.1.0"
+authors = ["msiglreith <msiglreith@users.noreply.github.com>"]
+
+[dependencies]
+gfx = "0.13"
+gfx_core = "0.5"
+gfx_device_gl = "0.12.0"
+gfx_device_dx11 = "0.4.0"
